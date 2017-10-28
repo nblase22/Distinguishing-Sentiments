@@ -1,0 +1,7 @@
+Observable Trends:
+
+1. BBC and NYTimes were the most negative
+
+2. No outlet had an overwhelmingly positive sentiment
+
+3. There were a wide variety of sentiments across tweets, likely because the news can go either way.
