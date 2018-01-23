@@ -11,11 +11,19 @@ Twitter bot that sends out visualized sentiment analysis of a Twitter account's 
 
 Requirements:
 numpy
+
 tweepy
+
 json
+
 pandas
+
 matplotlib
+
 time
+
 seaborn
-vaterSentiment
+
+vaderSentiment
+
 
